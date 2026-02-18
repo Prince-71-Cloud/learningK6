@@ -72,6 +72,10 @@ This repository helps software testers:
 - [K6 Documentation](https://k6.io/docs/)
 - [K6 JavaScript API](https://k6.io/docs/javascript-api/)
 - [Grafana K6](https://grafana.com/oss/k6/)
+ 
+## 📝 PDF Notes
+
+- If you'd like to download the PDF notes for this repository, please download the attached PDF in this repository or contact the repository owner.
 
 ## 📄 License
 
